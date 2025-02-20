@@ -1,0 +1,398 @@
+[
+    {
+        "question": "Hoeveel punten telt 1 volleybalset?",
+        "answers": ["25"]
+    }, 
+    {
+        "question": "Welke kleur heeft de nummer 8 in pool?",
+        "answers": ["zwart"]
+    }, 
+    {
+        "question": "Hoeveel spelers zijn er in een polo wedsrijd?",
+        "answers": ["4"]
+    }, 
+    {
+        "question": "Hoelang is een Olympisch zwembad?",
+        "answers": ["50 meter", " 50 m", "500 decimeter", "500 dm", "5000 centimeter", "5000 cm"]
+    }, 
+    {
+        "question": "Wat is de som van alle getallen in een dartsbord?",
+        "answers": ["210"]
+    }, 
+    {
+        "question": "Uit welk land is ijshockey afkomstig?",
+        "answers": ["Canada"]
+    }, 
+    {
+        "question": "Wie mag er beginnen bij schaken?",
+        "answers": ["wit"]
+    }, 
+    {
+        "question": "Waar gaan de olympische spelen in 2021 door?",
+        "answers": ["Tokio", "Tokyo"]
+    }, 
+    {
+        "question": "Wat doen boksers vaak om hun benenwerk te oefenen",
+        "answers": ["touwtjespringen"]
+    }, 
+    {
+        "question": "Uit welke sporten bestaat biatlon?",
+        "answers": ["langlaufen en schieten", "langlaufen schieten", "langlaufen, schieten", "schieten en langlaufen", "schieten langlaufen", "schieten, langlaufen"]
+    },
+    {
+        "question": "Wat is het laagste rugnummer bij basketbal?",
+        "answers": ["4"]
+    },
+    {
+        "question": "Welke sport wordt ook wel de \"moeder\" der sporten genoemd?",
+        "answers": ["atletiek"]
+    },
+    {
+        "question": "Hoe worden de kegels bij het bowlen genoemd?",
+        "answers": ["pins"]
+    },
+    {
+        "question": "Wat is het oudste tennistornooi ter wereld?",
+        "answers": ["Wimbledon"]
+    }, 
+    {
+        "question": "Hoe wordt een groep wielrenners ook wel genoemd?",
+        "answers": ["peloton", "het peloton"]
+    }, 
+    {
+        "question": "Hoeveel verschillende vakjes zijn er op een dartsbord?",
+        "answers": ["82"]
+    },
+    {
+        "question": "Bij welke sport is een bal niet rond?",
+        "answers": ["rugby"]
+    },
+    {
+        "question": "Wat is de maximum diameter van een hockeystick?",
+        "answers": ["5 cm", "5 centimeter"]
+    }, 
+    {
+        "question": "Wat is een andere naam voor de Vuelta?",
+        "answers": ["Ronde van Spanje", "de ronde van Spanje"]
+    },
+    {
+        "question": "Hoe wordt het kleine houten balletje bij petanque genoemd?",
+        "answers": ["but"]
+    },
+    {
+        "question": "Wat is de naam van de mat die we bij judo gebruiken?",
+        "answers": ["tatami"]
+    },
+    {
+        "question": "Welke voetbalploeg heeft als bijnaam de kanaries?",
+        "answers": ["STVV", "sint-Truiden", "Sint truiden"]
+    },
+    {
+        "question": "Welke voetbalploeg heeft als bijnaam Malinwa?",
+        "answers": ["KV Mechelen", "Mechelen"]
+    }, 
+    {
+        "question": "Welke voetbalploeg heeft als bijnaam de Boeren en Essevee?",
+        "answers": ["SV Zulte Waregem", "Zulte", "waregem", "Zulte Waregem"]
+    }, 
+    {
+        "question": "Welke voetbalploeg heeft als bijnaam de smurfen en de mijnjongens?",
+        "answers": ["KRC Genk", "KRC", "Genk"]
+    }, 
+    {
+        "question": "Welke voetbalploeg heeft als bijnaam Groenzwart?",
+        "answers": ["Cercle Brugge"]
+    }, 
+    {
+        "question": "Welke voetbalploeg heeft als bijnaam Blauwzwart?",
+        "answers": ["Club Brugge"]
+    }, 
+    {
+        "question": "Wat is de bijnaam van de voetbalploeg AA Gent?",
+        "answers": ["Buffalos", "Buffalo's", "de buffalos", "de buffalo's", "buffalo"]
+    },
+    {
+        "question": "Wat is de bijnaam van de voetbalploeg Lierse SKKSK Beveren?",
+        "answers": ["de leeuwen", "leeuwen"]
+    }, 
+    {
+        "question": "Wat is de bijnaam van de voetbalploeg Beerschot?",
+        "answers": ["de Kielse Ratten", "de Mannekes", "de Beren", "Kielse Ratten", "Beren"]
+    }, 
+    {
+        "question": "Wat is de bijnaam van de voetbalploeg KV Oostende?",
+        "answers": ["de Kustjongens", "'t weireldploegsje"]
+    }, 
+    {
+        "question": "Wat is de bijnaam van de voetbalploeg KV Kortrijk?",
+        "answers": ["de Kerels", "de Veekaa"]
+    },
+    {
+        "question": "Welke niet-mechanische sport bereikt de hoogste snelheden?",
+        "answers": ["parachutespringen", "parachute"]
+    },
+    {
+        "question": "Welke sportman zijn autobiografie heet ‘My side’?",
+        "answers": ["David Beckham", "Beckham"]
+    },
+    {
+        "question": "Hoeveel rondes zijn er in een amateur bokswedstrijd?",
+        "answers": ["3", "drie"]
+    },
+    {
+        "question": "Welke van het volgende is geen opstelling in voetbal? 4-4-2, 4-5-3 of 3-5-2?",
+        "answers": ["4-5-3"]
+    },
+    {
+        "question": "In welke Griekse stad werden vroeger door de Grieken de Olympische spelen gehouden?",
+        "answers": ["Olympia", "Olympos"]
+    },
+    {
+        "question": "Hoeveel ballen liggen er op een snookertafel?",
+        "answers": ["22"]
+    },
+    {
+        "question": "Wat is het maximumaantal punten dat je kan scoren in een bowlinggame?",
+        "answers": ["300"]
+    },
+    {
+        "question": "Welk Engels woord gebruikt men voor opslag bij tennis en volleybal?",
+        "answers": ["service"]
+    },
+    {
+        "question": "Op welke ondergrond wordt getennist op wimbledon?",
+        "answers": ["gras"]
+    },
+    {
+        "question": "Hoe wordt de platte schijf genoemd waarmee men bij ijshockey dient te scoren?",
+        "answers": ["puck"]
+    },
+    {
+        "question": "Hoe wordt bij tennis een winnende opslag genoemd waarbij de tegenstander de bal niet raakt?",
+        "answers": ["ace"]
+    },
+    {
+        "question": "Wat is de start en aankomstplaats van de Elfstedentocht?",
+        "answers": ["Leeuwarden"]
+    },
+    {
+        "question": "Hoe wordt de afslagplaats bij golf genoemd?",
+        "answers": ["tee"]
+    },
+    {
+        "question": "Hoe wordt het turnen op een bewegend paard genoemd?",
+        "answers": ["voltige"]
+    },
+    {
+        "question": "Om de hoeveel jaar worden de Olympische zomerspelen gehouden?",
+        "answers": ["4", "om de 4 jaar"]
+    },
+    {
+        "question": "Welke Italiaanse voetbalclub wordt vergeleken met een oude dame?",
+        "answers": ["Juventus"]
+    },
+    {
+        "question": "In welke stad brandde het Olympische vuur voor het eerst?",
+        "answers": ["Amsterdam"]
+    },
+    {
+        "question": "Hoeveel kilo weegt een discus voor vrouwen bij het discuswerpen?",
+        "answers": ["1 kilo", "1"]
+    },
+    {
+        "question": "Hoe worden bij het bowlen 3 strikes achter elkaar genoemd?",
+        "answers": ["turkey"]
+    },
+    {
+        "question": "Bij welke sport kan men de titel Mr. Olympia behalen?",
+        "answers": ["bodybuilding"]
+    },
+    {
+        "question": "Hoeveel banen heeft een olympisch zwembad?",
+        "answers": ["8"]
+    },
+    {
+        "question": "Wat was het eerste land dat twee maal de wereldbeker voetbal won?",
+        "answers": ["Italië", "Italie"]
+    },
+    {
+        "question": "Hoeveel spelers staan er in totaal op een basketbalveld?",
+        "answers": ["10"]
+    },
+    {
+        "question": "Met hoeveel pijltjes mag men in een beurt bij darts naar het bord gooien?",
+        "answers": ["3", "drie"]
+    },
+    {
+        "question": "In welk land werd het wereldkampioenschap voetbal gehouden in 2010?",
+        "answers": ["Zuid-Afrika", "Zuid Afrika"]
+    },
+    {
+        "question": "Hoe heet de komische film uit 1993 die gebaseerd is op de deelname van een Jamaicaans bobsleeteam aan de Olympische Winterspelen van 1988?",
+        "answers": ["Cool Runnings"]
+    },
+    {
+        "question": "Ik was een legendarische Braziliaanse Formule-1 piloot en ik stierf tijdens de Grand Prix van San Marino in 1994. Wie ben ik?",
+        "answers": ["Ayrton Senna"]
+    },
+    {
+        "question": "Waarvoor staan de letters \"MMA\"?",
+        "answers": ["Mixed martial arts"]
+    },
+    {
+        "question": "Wat was de geboortenaam van Mohammad Ali?",
+        "answers": ["Cassius Clay"]
+    },
+    {
+        "question": "Waar heeft Michael Schumacher voor het eerst deelgenomen aan een Grand Prix",
+        "answers": ["Spa Francorchamps", "België"]
+    },
+    {
+        "question": "Uit welk land is voetbal afkomstig?",
+        "answers": ["Engeland"]
+    },
+    {
+        "question": "Hoeveel keer is Michael Schumacher formule 1 kampioen geweest?",
+        "answers": ["7 keer", "7"]
+    },
+    {
+        "question": "Welk land heeft de meeste voetbal WK’s gewonnen?",
+        "answers": ["Brazilië", "Brazilie"]
+    },
+    {
+        "question": "Hoeveel spelers zijn er in een polo wedstrijd?",
+        "answers": ["4"]
+    },
+    {
+        "question": "Hoeveel spelers zijn er in een honkbalteam?",
+        "answers": ["9"]
+    },
+    {
+        "question": "Uit welk land komt Fernando Alonso?",
+        "answers": ["Spanje"]
+    },
+    {
+        "question": "Uit welke land is tafeltennis afkomstig?",
+        "answers": ["China"]
+    },
+    {
+        "question": "Hoeveel verschillende vakjes zijn er in een dartsbord?",
+        "answers": ["82"]
+    },
+    {
+        "question": "Hoeveel keer mag een volleybal geraakt worden tot hij weer over het net gaat?",
+        "answers": ["3 keer", "3"]
+    },
+    {
+        "question": "Wat is de som van alle getallen in een dartsbord?",
+        "answers": ["210"]
+    },
+    {
+        "question": "Uit welk land komt de sprinter Usain Bolt?",
+        "answers": ["Jamaica"]
+    },
+    {
+        "question": "Hoelang duurt een hockeywedstrijd?",
+        "answers": ["70 minuten", "70 min"]
+    },
+    {
+        "question": "Hoeveel punten telt een ‘try’ bij rugby?",
+        "answers": ["5"]
+    },
+    {
+        "question": "Hoeveel spelers telt een basketbal ploeg?",
+        "answers": ["5 spelers", "5"]
+    },
+    {
+        "question": "Hoe is Edison Arantes do Nascimento, één van de beste spelers aller tijden, beter gekend?",
+        "answers": ["Pelé", "Pele"]
+    },
+    {
+        "question": "Hoe luidde de bijnaam van Jean-Marie Pfaff tijdens het, voor België, erg succesvolle WK 1986 in Mexico?",
+        "answers": ["El Sympatico"]
+    },
+    {
+        "question": "Waar vonden de dramatische Spelen van '72 plaats?",
+        "answers": ["Munchen"]
+    },
+    {
+        "question": "Van welke wielrenner is volgende bijnaam: de kannibaal?",
+        "answers": ["Eddy Merckx", "Merckx"]
+    },
+    {
+        "question": "Van welke wielrenner is volgende bijnaam: elefantino?",
+        "answers": [ "Marco Pantani", "Pantani"]
+    },
+    {
+        "question": "Van welke wielrenner is volgende bijnaam: de adelaar van Toledo?",
+        "answers": ["Frederico Bahamontes", "Bahamontes"]
+    },
+    {
+        "question": "Welke helling staat centraal tijdens de ronde van Vlaanderen?",
+        "answers": ["De Muur Van Geraardsbergen", "Muur Van Geraardsbergen", "De Muur"]
+    },
+    {
+        "question": "Hoeveel keer won Eddy Merckx de ronde van Italië?",
+        "answers": ["5 keer", "5"]
+    },
+    {
+        "question": "Bij welke sport wordt 'en garde' gecommandeerd?",
+        "answers": ["Schermen"]
+    },
+    {
+        "question": "In welke jaar werd de Ronde van Frankrijk voor het eerst gereden?",
+        "answers": ["1903"]
+    },
+    {
+        "question": "In welke sport speelt men het Daviscuptoernooi?",
+        "answers": ["Tennis"]
+    },
+    {
+        "question": "Welke wielrenner won de Ronde van Frankrijk voor het eerst 5 keer na elkaar?",
+        "answers": ["Miguel Indurain", "Indurain"]
+    },
+    {
+        "question": "Hoeveel ijshockeyers staan er op het ijs per team?",
+        "answers": ["6"]
+    },
+    {
+        "question": "Wat is na voetbal de populairste sport ter wereld?",
+        "answers": ["Cricket"]
+    },
+    {
+        "question": "Wie was de eerste sporter die miljardair werd met zijn sport?",
+        "answers": ["Tiger Woods", "Woods"]
+    },
+    {
+        "question": "Hoe lang duurt het Wimbledon tennistoernooi?",
+        "answers": ["2 weken"]
+    },
+    {
+        "question": "Hoe wordt een individuele race in de Formule 1 genoemd?",
+        "answers": ["Grand Prix", "GP"]
+    },
+    {
+        "question": "Hoe noem je de persoon die de speler assisteert tijdens een golfwedstrijd?",
+        "answers": ["caddy"]
+    },
+    {
+        "question": "Welke wielrenner won 7 maal de Tour de France, maar moest deze overwinningen inleveren omdat hij doping had gebruikt?",
+        "answers": ["Lance Armstrong", "Armstrong"]
+    },
+    {
+        "question": "Bij welke sport hoort de NBA?",
+        "answers": ["Basket", "Basketbal"]
+    },
+    {
+        "question": "Hoeveel veldspelers telt een team bij waterpolo?",
+        "answers": ["7"]
+    },
+    {
+        "question": "Welke kleur band komt na de groene band bij judo?",
+        "answers": ["blauw"]
+    },
+    {
+        "question": "Wie was de allereerste wereldkampioen in de Formule 1?",
+        "answers": ["Guiseppe Farina", "Farina"]
+    }
+]

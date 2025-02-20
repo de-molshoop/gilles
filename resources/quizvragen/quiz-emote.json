@@ -1,0 +1,160 @@
+[
+    {
+        "question": "Welke film is dit?",
+        "image": "https://cdn.discordapp.com/attachments/916435140929015868/916435232029290556/image-removebg-preview.png",
+        "answers": ["Home alone 1", "Home alone"]
+        },
+        
+        {
+        "question": "Welke serie is dit?",
+        "image": "https://cdn.discordapp.com/attachments/910601838129201152/916433779353071687/image-removebg-preview_1.png",
+        "anwers": ["Death note"]
+        },
+        {
+        "question": "Welke film is dit?",
+        "image": "https://media.discordapp.net/attachments/910601838129201152/916435944243077140/image-removebg-preview_12.png",
+        "answers": ["The Hobbit", "hobbit", "Lord of the Rings", "LOTR"]
+        },
+        
+        {
+        "question": "Welke comic is dit?",
+        "image": "https://cdn.discordapp.com/attachments/910601838129201152/916435950089957396/image-removebg-preview_11.png",
+        "answers": ["Spiderman"]
+        },
+        
+        {
+        "question": "Welke strip is dit?",
+        "image": "https://cdn.discordapp.com/attachments/910601838129201152/916435954506530816/image-removebg-preview_10.png",
+        "answers": ["Batman"] 
+        },
+        {
+            "question": "Welke film is dit?", 
+            "image": "https://cdn.discordapp.com/attachments/910601838129201152/916994154381328434/image-removebg-preview_21.png",
+            "answers": ["Aladdin"]
+            },
+            
+            {
+            "question": "Welke strip is dit?",
+            "image": "https://cdn.discordapp.com/attachments/910601838129201152/916994158659510313/image-removebg-preview_20.png",
+            "answers": ["Iron man"]
+            },
+            {
+                "question": "Welke film is dit?",
+                "image": "https://cdn.discordapp.com/attachments/910601838129201152/916435958398853160/image-removebg-preview_9.png",
+                "answers": ["James Bond"]
+                },
+                
+                {
+                "question": "Welk liedje is dit?",
+                "image": "https://cdn.discordapp.com/attachments/910601838129201152/916435962748350464/image-removebg-preview_8.png",
+                "answers": ["astronaut in the ocean"]
+                },
+                
+                {
+                "question": "Welke film is dit?",
+                "image": "https://cdn.discordapp.com/attachments/910601838129201152/916435967940886588/image-removebg-preview_7.png",
+                "answers": ["ice age"]
+                },
+                {
+                    "question": "Welke film is dit?",
+                    "image": "https://cdn.discordapp.com/attachments/910601838129201152/916435977952718848/image-removebg-preview_5.png",
+                    "answers": ["fantasia"]
+                    },
+                    
+                    {
+                    "question": "Welke serie is dit?",
+                    "image": "https://cdn.discordapp.com/attachments/910601838129201152/916435983648579605/image-removebg-preview_4.png",
+                    "answers": ["The Walking Dead", "walking dead"]
+                    }, 
+                    {
+                    "question": "Welke serie is dit?",
+                    "image": "https://cdn.discordapp.com/attachments/910601838129201152/916435992599203940/image-removebg-preview_2.png",
+                    "answers": ["Sex education"]
+                    },
+                    {
+                        "question": "Welke film is dit?",
+                        "image": "https://cdn.discordapp.com/attachments/910601838129201152/916994154381328434/image-removebg-preview_21.png",
+                        "answers": ["The Martian"]
+                        },
+                        
+                        {
+                        "question": "Welke film is dit?",
+                        "image": "https://media.discordapp.net/attachments/760933771406606338/917009057129299988/Opgave_3.png''",
+                        "answers": ["Kung Fu Panda"]
+                        },
+                        {
+                            "question": "Welke serie is dit?",
+                            "image": "https://cdn.discordapp.com/attachments/910601838129201152/916435992599203940/image-removebg-preview_2.png",
+                            "answers": ["Sex education"]
+                            },
+                            
+                            {
+                            "question": "Welke film is dit?",
+                            "image": "https://cdn.discordapp.com/attachments/910601838129201152/922566115748610078/image-removebg-preview_25.png",
+                            "answers": ["Pinokkio" , "Pinochio"]
+                            },
+                            
+                            {
+                            "quesion": "Welke film is dit?",
+                            "image": "https://cdn.discordapp.com/attachments/910601838129201152/922566115748610078/image-removebg-preview_25.png",
+                            "answers": ["Pirates of the Carribean" , "Pirates of the caribean"]
+                            },
+                            {
+                                "question": "Welke strip is dit?",
+                                "image": "https://cdn.discordapp.com/attachments/760933771406606338/917005584933457950/Opgave_2.png",
+                                "answers": ["Garfield"]
+                                },
+                                
+                                {
+                                "question": "Welke serie is dit?",
+                                "image": "https://cdn.discordapp.com/attachments/760933771406606338/916999054846746634/Opgave_1.png",
+                                "answers": ["fairytale"]
+                                },
+                                
+                                {
+                                "question": "Welke game is dit?",
+                                "image": "https://cdn.discordapp.com/attachments/910601838129201152/916994217165864960/image-removebg-preview_13.png",
+                                "answers": ["Angry birds"]
+                                },
+                                
+                                {
+                                "question": "Welke film is dit?",
+                                "image":
+                                "https://cdn.discordapp.com/attachments/910601838129201152/916994212577280000/image-removebg-preview_14.png",
+                                "answers": ["lion king"]
+                                },
+                                
+                                {
+                                "question": "Welk liedje is dit?",
+                                "image": "https://cdn.discordapp.com/attachments/910601838129201152/916994206441046016/image-removebg-preview_15.png",
+                                "answers": ["eye of the tiger"]
+                                },
+                                {
+                                    "question": "Welke serie is dit?",
+                                    "image": "https://cdn.discordapp.com/attachments/910601838129201152/923262547036098600/image-removebg-preview_30.png",
+                                    "answers": ["Squid Game"]
+                                },
+                            
+                            {
+                                    "question": "Welke film is dit?",
+                                    "image": "https://cdn.discordapp.com/attachments/910601838129201152/923262547237408788/image-removebg-preview_28.png",
+                                    "answers": ["Sausage party"]
+                                },
+                            
+                            {
+                                    "question": "Welke film is dit?",
+                                    "image": "https://cdn.discordapp.com/attachments/910601838129201152/923262547459731477/image-removebg-preview_27.png",
+                                    "answers": ["King Kong"]
+                                },
+                                {
+                                    "question": "Welke band is dit?",
+                                    "image": "https://cdn.discordapp.com/attachments/910601838129201152/923301662012104764/image-removebg-preview_32.png",
+                                    "answers": ["Dreamcatcher"]
+                                },
+                            
+                            {
+                                    "question": "Welke serie is dit?",
+                                    "image": "https://cdn.discordapp.com/attachments/910601838129201152/923301662226002021/image-removebg-preview_31.png",
+                                    "answers": ["Spongebob Squarepants", "Spongebob"]
+                                }
+]

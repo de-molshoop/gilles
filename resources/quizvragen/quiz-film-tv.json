@@ -1,0 +1,116 @@
+[
+    {
+        "question": "Bij welk tv-programma zou u Statler en Waldorf hebben gezien?",
+        "answers": ["The Muppet Show"]
+    },
+    {
+        "question": "Welke “Lord Of The Rings” ster is ook een dichter, kunstenaar, fotograaf en jazz-muzikant?",
+        "answers": ["Viggo Mortensen"]
+    },
+    {
+        "question": "Hoeveel Oscar nominaties heeft Titanic ontvangen?",
+        "answers": ["14"]
+    },
+    {
+        "question": "Wat is Joey en Chandler `s favoriete TV-show in de Tv-serie ‘Friends’?",
+        "answers": ["Baywatch"]
+    },
+    {
+        "question": "Welk Nederlands Tv-programma gaat over een mysterie in een studentenhuis?",
+        "answers": ["Het Huis Anubis"]
+    },
+    {
+        "question": "Wie is het eerste baasje van Samson?",
+        "answers": ["Gert"]
+    },
+    {
+        "question": "Welke heldin is verliefd op Toby?",
+        "answers": ["Mega Mindy"]
+    },
+    {
+        "question": "In welk land kwam Expeditie Robinson voor het eerst op tv",
+        "answers": ["Zweden"]
+    },
+    {
+        "question": "Hoe heet de clown uit de horrorserie It?",
+        "answers": ["Pennywise"]
+    },
+    {
+        "question": "In welke tv-serie had Will Smith zijn eerste grote rol?",
+        "answers": ["The Fresh Prince of Bel-Air"]
+    },
+    {
+        "question": "Wie is de meest bekende personage van Rowan Atkinson?",
+        "answers": ["Mister Bean", "Mr. Bean", "Mr Bean", "Bean"]
+    },
+    {
+        "question": "Wat is de achternaam van Ron in de films van Harry Potter?",
+        "answers": ["Weasley", "Wemel"]
+    },
+    {
+        "question": "Welke Hollywood-acteur speelde zes verschillende rollen in The Polar Express?",
+        "answers": ["Tom Hanks", "Hanks"]
+    },
+    {
+        "question": "Wat is de naam van de familie uit \"Home Alone\"?",
+        "answers": ["McCallister"]
+    },
+    {
+        "question": "Uit welke film zie je hier een scene?",
+        "image": "https://www.mupload.nl/img/dqopoyko7.png",
+        "answers": ["La La land", "Lalaland"]
+    },
+    {
+        "question": "No Time to Die is de nieuwe James Bond film die uitkwam in 2020. Wie zong de titelsong?",
+        "answers": ["Billie Eilish"]
+    },
+    {
+        "question": "Wat was de eerste niet-Engelstalige film, die de Oscar voor beste film kreeg?",
+        "answers": ["Parasite"]
+    },
+    {
+        "question": "Welke Belgische horrorfilm vertelt het verhaal van een groep scouts die op zomerkamp gaan in de Ardennen in een bos waar ook de weerwolfjongen Kai woont?",
+        "answers": ["Welp"]
+    },
+    {
+        "question": "Hoe heet de prijs die de beste film krijgt op het filmfestival van Berlijn?",
+        "answers": ["Gouden Beer"]
+    },
+    {
+        "question": "Welke vogel staat symbool voor de verzetsbeweging in \"The Hunger Games\"?",
+        "answers": ["Mockingjay", "Spotgaai"]
+    },
+    {
+        "question": "Welke acteur speelt de rol van the Joker in de gelijkamige film uit 2020?",
+        "answers": ["Joaquin Phoenix", "Phoenix"]
+    },
+    {
+        "question": "Welke actrice zie je hier? Ze speelde onderandere in de films Marina en Groenten uit Balen.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Evelien-bosmans-1323961215.jpg",
+        "answers": ["Evelien Bosmans", "Bosmans"]
+    },
+    {
+        "question": "Na hoeveel nominaties kon Leonardo Di Caprio zijn eerste oscar voor mannelijke hoofdrol in de wacht slepen?",
+        "answers": ["4", "vier"]
+    },
+    {
+        "question": "Wie won een oscar voor de soundtrack van de film The Hatefull Eight?",
+        "answers": ["Ennio Moricone", "Moricone"]
+    },
+    {
+        "question": "Uit welke musical/film komen liedjes als Edelweiss en DoReMi?",
+        "answers": ["The Sound of Music"]
+    },
+    {
+        "question": "In welk jaar werd in België de allereerste aflevering van het tv-programma 'De Mol' uitgezonden?",
+        "answers": ["1998"]
+    },
+    {
+        "question": "In welk jaar werd in Nederland de allereerste aflevering van het tv-programma 'Wie is de Mol' uitgezonden?",
+        "answers": ["1999"]
+    },
+    {
+        "question": "Hoe heet de komische film uit 1993 die gebaseerd is op de deelname van een Jamaicaans bobsleeteam aan de Olympische Winterspelen van 1988?",
+        "answers": ["Cool Runnings"]
+    }
+]

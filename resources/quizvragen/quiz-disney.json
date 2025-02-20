@@ -1,0 +1,207 @@
+[
+    {
+        "question": "In welke bekende film spelen 101 honden de hoofdrol?",
+        "answers": ["101 Dalmatiërs", "101 Dalmatiers"]
+    },
+    {
+        "question": "Hoe heet de zwarte panter uit Jungle Boek?",
+        "answers": ["Bagheera"]
+    },
+    {
+        "question": "Wat is de naam van de vader van Simba in de film de Leeuwenkoning?",
+        "answers": ["Mufasa", "Mufassa"]
+    },
+    {
+        "question": "Uit welke Disneyfilm is het grote kasteel dat in het midden van Disneyland Parijs staat?",
+        "image": "https://www.parkplanet.nl/images/artikelen/fr_disneyland_parijs/Fantasyland/Groot/DLP_Kasteel_roze_lucht_20AvE.jpg",
+        "answers": ["Doornroosje"]
+    },
+    {
+        "question": "Hoe heet de speelgoedmaker in de film Pinokkio?",
+        "answers": ["Gepeto", "Gepetto"]
+    },
+    {
+        "question": "Wat is de echte naam van \"Baby Yoda\"",
+        "image": "https://cheesecake.articleassets.meaww.com/506592/uploads/b7ad9650-3091-11eb-a277-011d25811a91_800_420.jpeg",
+        "answers": ["Grogu"]
+    },
+    {
+        "question": "Wat is de naam van het vosje in de Disneyfilm Frank en Frey?",
+        "answers": ["Frey"]
+    },
+    {
+        "question": "Wat is de naam van het aapje uit de Disneyfilm Aladdin?",
+        "answers": ["Abu"]
+    },
+    {
+        "question": "Waar woont Winnie de Poeh?",
+        "answers": ["Honderd Bunderbos", "in het Honderd Bunderbos"]
+    },
+    {
+        "question": "Hoe heet de rode raceauto uit de de film Cars?",
+        "answers": ["Bliksem McQueen", "Lightning McQueen"]
+    },
+    {
+        "question": "Wat achtervolgt Alice in de film Alice in Wonderland?",
+        "answers": ["een wit konijn"]
+    },
+    {
+        "question": "Hoe heet de kleine rode draak in de Disneyfilm Mulan?",
+        "answers": ["Mushu"]
+    },
+    {
+        "question": "Hoe heet het hulpje van Kapitein Haak in de Disneyfilm Peter Pan?",
+        "answers": ["Vetje"]
+    },
+    {
+        "question": "In welk jaar is Mickey Mouse ontworpen?",
+        "answers": ["1928"]
+    },
+    {
+        "question": "Wie wordt in de film Lilo en Stitch bedoeld met “experiment 626”?",
+        "answers": ["Stitch"]
+    },
+    {
+        "question": "Hoe heet de vrouw uit de film 101 Dalmatiërs die dalmatiërbond wil gebruiken voor haar kledinglijn?",
+        "answers": ["Cruella De Vil"]
+    },
+    {
+        "question": "Waar was Peter Pan naar op zoek toen hij het huis van Wendy, Michiel en Jan bezocht?",
+        "answers": ["zijn schaduw", "schaduw"]
+    },
+    {
+        "question": "Welke Disneyfilm was de eerste animatiefilm die langer dan een uur duurde?",
+        "answers": ["Sneeuwwitje en de zeven dwergen", "Sneeuwwitje"]
+    },
+    {
+        "question": "Wat voor dier is Timon in de Disneyfilm De Leeuwenkoning?",
+        "answers": ["Stokstaartje"]
+    },
+    {
+        "question": "Uit hoeveel hotels bestaat Disneyland Parijs?",
+        "answers": ["7", "zever"]
+    },
+    {
+        "question": "In welk jaar overleed Walter Disney?",
+        "answers": ["1966"]
+    },
+    {
+        "question": "Welke film stond tijdens de productie bekend als King of the Jungle?",
+        "answers": ["The Lion King", "De Leeuwenkoning"]
+    },
+    {
+        "question": "Hoeveel wensen mag Aladdin van de Geest doen?",
+        "answers": ["3", "drie"]
+    },
+    {
+        "question": "Van wie was het hart in de kist?",
+        "image": "https://static.wikia.nocookie.net/pirates/images/b/be/Davy_Jones_Heart_AWE.jpg/revision/latest?cb=20120519061653",
+        "answers": ["David Jones"]
+    },
+    {
+        "question": "Hoe heet de vader van Will Turner?",
+        "image": "https://i.stack.imgur.com/dE1F2.jpg",
+        "answers": ["Bill Turner"]
+    },
+    {
+        "question": "Hoe heer deze protocol droid uit Star Wars",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/5c/C-3PO_droid.png",
+        "answers": ["C-3PO", "C3PO"]
+    },
+    {
+        "question": "Hoe heet de oom van Simba in de film The Lion King?",
+        "answers": ["Scar"]
+    },
+    {
+        "question": "Naar wie is Toy Story-figuur Buzz Lightyear vernoemd?",
+        "answers": ["Buzz Aldrin"]
+    },
+    {
+        "question": "De prins van 'Belle en het Beest' werd vanwege zijn egoïstische gedrag veranderd in een beest. Om weer terug getoverd te worden, moet hij iemand van hem laten houden. Voor welke leeftijd moet dit gebeurd zijn?",
+        "answers": ["21"]
+    },
+    {
+        "question": "In de film 'Up' wil de hoofdpersoon Carl Fredricksen zijn huis verplaatsen met heliumballonnen. Welke plaats wil hij bereiken?",
+        "answers": ["Paradise Falls"]
+    },
+    {
+        "question": "Hoe heet de hond van Prins Erik in 'De Kleine Zeemeermin'?",
+        "answers": ["Max"]
+    },
+    {
+        "question": "Hoe heet de raaf uit de Disneyfilm Maleficent?",
+        "answers": ["Diable"]
+    },
+    {
+        "question": "Wat geeft Aladdin aan de arme kinderen?",
+        "answers": ["brood"]
+    },
+    {
+        "question": "Wat zag Pocahontas in haar droom waarmee ze zag dat er verandering ging komen?",
+        "answers": ["een draaiende pijl", "draaiende pijl"]
+    },
+    {
+        "question": "Voor hoeveel jaren zat de Genie uit Aladdin gevangen in de lamp?",
+        "answers": ["10 000", "10000"]
+    },
+    {
+        "question": "Welke hak liet Assepoester achter op het bal?",
+        "answers": ["haar linker hak", "linker"]
+    },
+    {
+        "question": "Wat was de allereerste Pixarfilm?",
+        "answers": ["Toy Story"]
+    },
+    {
+        "question": "Hoe heet het meisje uit 'Inside Out'?",
+        "answers": ["Riley"]
+    },
+    {
+        "question": "Hoe heet de haai uit 'Nemo'?",
+        "answers": ["Bruce"]
+    },
+    {
+        "question": "In welk land speelt de film 'Brave' zich af?",
+        "answers": ["Schotland"]
+    },
+    {
+        "question": "Wat wil Remy worden in de film 'Ratatouille'?",
+        "answers": ["chef", "chefkok", "kok"]
+    },
+    {
+        "question": "In welk jaar verscheen de film 'Nemo'?",
+        "answers": ["2003"]
+    },
+    {
+        "question": "In Toy Story, wat staat er op de zool van Woody?",
+        "answers": ["Andy"]
+    },
+    {
+        "question": "Wat zou oorspronkelijk de naam van Mickey Mouse geweest zijn?",
+        "answers": ["Mortimer Mouse", "Mortimer"]
+    },
+    {
+        "question": "Hoe heet de hond van Mickey Mouse?",
+        "answers": ["Pluto"]
+    },
+    {
+        "question": "Hoe heet het vriendinnetje van Mickey Mouse?",
+        "answers": ["Minnie Mouse", "Minnie"]
+    },
+    {
+        "question": "Wie was de eerste animatiefiguur dat een ster kreeg op de Hollywood Walk of Fame?",
+        "answers": ["Mickey Mouse", "Mickey"]
+    },
+    {
+        "question": "In welke film uit 1928 maakte Mickey Mouse zijn debuut?",
+        "answers": ["Steamboat Willy"]
+    },
+    {
+        "question": "Wie sprak als eerste de stem van Mickey Mouse in?",
+        "answers": ["Walt Disney"]
+    },
+    {
+        "question": "In welke film speelde Mickey Mouse een leerling-tovenaar?",
+        "answers": ["Fantasia"]
+    }
+]

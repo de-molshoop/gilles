@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/product.schema.json",
+  "title": "Question",
+  "description": "A question for a quiz",
+  "type": "object",
+  "properties": 
+  {
+      "question": {"type": "string"},
+      "image": {"type": "string"},
+      "answers": {"type": "array", "items": {"type": "string"}},
+      "dependentRequired":
+      {
+          "question": ["answers"],
+          "answers": ["question"]
+      }
+  }
+}
