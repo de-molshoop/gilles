@@ -1,52 +1,52 @@
 const { SlashCommandBuilder } = require('discord.js');
 
-const prequiz = require('../resources/quizvragen/quiz.json');
-const quizFilm = require('../resources/quizvragen/quiz-film-tv.json');
-const quizaa = require('../resources/quizvragen/quiz-aa.json');
-const quizMuziek = require('../resources/quizvragen/quiz-muziek.json');
-const quizSport = require('../resources/quizvragen/quiz-sport.json');
+const pretrivia = require('../resources/quizvragen/quiz.json');
+const triviaFilm = require('../resources/quizvragen/quiz-film-tv.json');
+const triviaaa = require('../resources/quizvragen/quiz-aa.json');
+const triviaMuziek = require('../resources/quizvragen/quiz-muziek.json');
+const triviaSport = require('../resources/quizvragen/quiz-sport.json');
 
-const quizGesch = require('../resources/quizvragen/quiz-geschiedenis.json');
-const quizDisney = require('../resources/quizvragen/quiz-disney.json');
-const quizLogo = require('../resources/quizvragen/quiz-logo.json');
-const quizEmote = require('../resources/quizvragen/quiz-emote.json');
+const triviaGesch = require('../resources/quizvragen/quiz-geschiedenis.json');
+const triviaDisney = require('../resources/quizvragen/quiz-disney.json');
+const triviaLogo = require('../resources/quizvragen/quiz-logo.json');
+const triviaEmote = require('../resources/quizvragen/quiz-emote.json');
 
 var vragenStorage = {
-    quizFilm: quizFilm,
-    //quizaa: quizaa, 
-    quizMuziek: quizMuziek,
-    quizSport: quizSport,
+    triviaFilm: triviaFilm,
+    //triviaaa: triviaaa, 
+    triviaMuziek: triviaMuziek,
+    triviaSport: triviaSport,
 
-    quizGesch: quizGesch,
-    quizDisney: quizDisney,
-    quizLogo: quizLogo,
-    quizEmote: quizEmote,
+    triviaGesch: triviaGesch,
+    triviaDisney: triviaDisney,
+    triviaLogo: triviaLogo,
+    triviaEmote: triviaEmote,
 
-    quiz:  prequiz.concat(quizFilm, quizMuziek, quizSport, quizGesch, quizDisney, quizLogo, quizEmote)
+    trivia:  pretrivia.concat(triviaFilm, triviaMuziek, triviaSport, triviaGesch, triviaDisney, triviaLogo, triviaEmote)
 }
 
 module.exports = {
     data: new SlashCommandBuilder()
-    .setName("quiz")
+    .setName("trivia")
     .setDescription("Quizmaster Gilles stelt je een vraag, aan jou om het juiste antwoord te geven")
     .addStringOption(option =>
         option.setName("module")
         .setDescription("De module waar je een vraag uit wil")
         .addChoices(
-            { name: "Film", value: "quizFilm" },
-            { name: "Aardrijkskunde", value: "quizaa" },
-            { name: "Muziek", value: "quizMuziek" },
-            { name: "Sport", value: "quizSport" },
-            { name: "Geschiedenis", value: "quizGesch" },
-            { name: "Disney", value: "quizDisney" },
-            { name: "Logo", value: "quizLogo" },
-            { name: "Emote", value: "quizEmote" },
+            { name: "Film", value: "triviaFilm" },
+            { name: "Aardrijkskunde", value: "triviaaa" },
+            { name: "Muziek", value: "triviaMuziek" },
+            { name: "Sport", value: "triviaSport" },
+            { name: "Geschiedenis", value: "triviaGesch" },
+            { name: "Disney", value: "triviaDisney" },
+            { name: "Logo", value: "triviaLogo" },
+            { name: "Emote", value: "triviaEmote" },
         )),
 
     async execute(interaction) {
         await interaction.deferReply();
 
-        let module = interaction.options.getString("module") ?? "quiz";
+        let module = interaction.options.getString("module") ?? "trivia";
 
         const vragen = vragenStorage[module];
 
@@ -57,7 +57,7 @@ module.exports = {
 
         interaction.editReply({
             embeds: [{
-                title: "QUIZ",
+                title: "TRIVIA",
                 description: vraag.question,
                 image: {
                     url: vraag.image
@@ -80,5 +80,5 @@ module.exports = {
         })
     },
 
-    info: "Quizmaster Doddy stelt een vraag"
+    info: "Quizmaster Gilles stelt een vraag"
 }
