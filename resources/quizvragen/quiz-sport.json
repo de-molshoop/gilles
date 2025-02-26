@@ -69,7 +69,7 @@
     },
     {
         "question": "Wat is de maximum diameter van een hockeystick?",
-        "answers": ["5 cm", "5 centimeter"]
+        "answers": ["5 cm", "5 centimeter", "5cm"]
     }, 
     {
         "question": "Wat is een andere naam voor de Vuelta?",

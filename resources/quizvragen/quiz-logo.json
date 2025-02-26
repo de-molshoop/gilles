@@ -128,169 +128,169 @@
         "question": "Welk logo zie je hier?",
         "image": "https://cdn.discordapp.com/attachments/913500970464452699/916630432215334962/Opgave_26.png",
         "answers": ["Deezer", "Deezer Music"]
-        },
-        
-        {
+    },
+
+    {
         "question": "Welk logo zie je hier?",
         "image": "https://cdn.discordapp.com/attachments/913500970464452699/916669975299751956/Opgave_27.png",
         "answers": ["Microsoft"]
-        },
-        
-        {
+    },
+
+    {
         "question": "Welk logo zie je hier?",
         "image": "https://cdn.discordapp.com/attachments/913500970464452699/916670011513372752/Opgave_28.png",
         "answers": ["NVIDIA"]
-        },
-        
-        {
+    },
+
+    {
         "question": "Welk logo zie je hier?",
         "image": "https://cdn.discordapp.com/attachments/913500970464452699/916670409590587402/Opgave_29.png",
         "answers": ["Intel"]
-        },
-        
-        {
+    },
+
+    {
         "question": "Welk logo zie je hier?",
         "image": "https://cdn.discordapp.com/attachments/913500970464452699/916671129177948160/Opgave_30.png",
         "answers": ["Windows 10"]
-        },
-        
-        {
+    },
+
+    {
         "question": "Welk logo zie je hier?",
         "image": "https://cdn.discordapp.com/attachments/913500970464452699/916692714630832208/Opgave_31.png",
         "answers": ["Opera"]
-        },
-        
-        {
+    },
+
+    {
         "question": "Welk logo zie je hier?",
         "image": "https://cdn.discordapp.com/attachments/913500970464452699/916672891830038558/Opgave_32.png",
         "answers": ["Spa"]
-        },
-        
-        {
+    },
+
+    {
         "question": "Welk logo zie je hier?",
         "image": "https://cdn.discordapp.com/attachments/913500970464452699/916672947777851453/Opgave_33.png",
         "answers": ["Douwe Egberts"]
-        },{
-            "question": "Welk logo zie je hier?",
-            "image": "https://cdn.discordapp.com/attachments/913500970464452699/916693755740946452/Opgave_34.png",
-            "answers": ["Disney"]
-            },
-            
-            {
-            "question": "Welk logo zie je hier?",
-            "image": "https://cdn.discordapp.com/attachments/913500970464452699/916693987874729994/Opgave_35.png",
-            "answers": ["Netflix"]
-            },
-            
-            {
-            "question": "Welk logo zie je hier?",
-            "image": "https://cdn.discordapp.com/attachments/913500970464452699/916696114059690004/Opgave_36.png",
-            "answers": ["Skype"]
-            },
-            
-            {
-            "question": "Welk logo zie je hier?",
-            "image": "https://cdn.discordapp.com/attachments/913500970464452699/916696142543208488/Opgave_37.png",
-            "answers": ["Cars"]
-            },
-            
-            {
-            "question": "Welk logo zie je hier?",
-            "image": "https://cdn.discordapp.com/attachments/913500970464452699/916696211258507274/Opgave_38.png",
-            "answers": ["Planner"]
-            },
-            
-            {
-            "question": "Welk logo zie je hier?",
-            "image": "https://cdn.discordapp.com/attachments/913500970464452699/916696243722416128/Opgave_39.png",
-            "answers": ["SharePoint"]
-            },
-            
-            {
-            "question": "Welk logo zie je hier?",
-            "image": "https://cdn.discordapp.com/attachments/913500970464452699/916696264702324806/Opgave_40.png",
-            "answers": ["Yammer"]
-            }, 
-            {
-            "question": "Welk logo zie je hier?",
-            "image": "https://cdn.discordapp.com/attachments/913500970464452699/916698584190185482/Opgave_41.png",
-            "answers": ["Blender"]
-            },
-            
-            {
-            "question": "Welk logo zie je hier?",
-            "image": "https://cdn.discordapp.com/attachments/913500970464452699/916712589839462470/Opgave_44.png",
-            "answers": ["Carrefour"]
-            },
-            
-            {
-            "question": "Welk logo zie je hier?",
-            "image": "https://cdn.discordapp.com/attachments/913500970464452699/916712601122144336/Opgave_43.png",
-            "answers": ["Aldi"]
-            },
-            
-            {
-            "question": "Welk logo zie je hier?",
-            "image": "https://cdn.discordapp.com/attachments/913500970464452699/916712613214314526/Opgave_45.png",
-            "answers": ["Lidl"]
-            },
-            
-            {
-            "question": "Welk logo zie je hier?",
-            "image": "https://cdn.discordapp.com/attachments/913500970464452699/916712642977099817/Opgave_46.png",
-            "answers": ["Delhaize"]
-            },
-            
-            {
-            "question": "Welk logo zie je hier?",
-            "image": "https://cdn.discordapp.com/attachments/913500970464452699/916712676523130880/Opgave_47.png",
-            "answers": ["Albert Heijn"]
-            },
-            
-            {
-            "question": "Welk logo zie je hier?",
-            "image": "https://cdn.discordapp.com/attachments/913500970464452699/916712706701160518/Opgave_48.png",
-            "answers": ["Deliveroo"]
-            },
-            
-            {
-            "question": "Welk logo zie je hier?",
-            "image": "https://cdn.discordapp.com/attachments/913500970464452699/916712732189921330/Opgave_49.png",
-            "answers": ["Ikea"]
-            },
-            
-            {
-            "question": "Welk logo zie je hier?",
-            "image": "https://cdn.discordapp.com/attachments/913500970464452699/916712754612690964/Opgave_50.png",
-            "answers": ["Makro"]
-            },
-            
-            {
-            "question": "Welk logo zie je hier?",
-            "image": "https://cdn.discordapp.com/attachments/913500970464452699/916714179937828914/Opgave_51.png",
-            "answers": ["FFoT", "Fun Fact of Today"]
-            },
-            {
-                "question": "Welk logo zie je hier?",
-                "image": "https://cdn.discordapp.com/attachments/913500970464452699/916715175749492746/Opgave_52.png",
-                "answers": ["msi", "MSI"]
-                },
-                
-                {
-                "question": "Welk logo zie je hier?",
-                "image": "https://cdn.discordapp.com/attachments/913500970464452699/916716386854780928/Opgave_54.png",
-                "answers": ["Studio 100", "Studio Honderd"]
-                },
-                
-                {
-                "question": "Welk logo zie je hier?",
-                "image": "https://cdn.discordapp.com/attachments/913500970464452699/916716778149785660/Opgave_53.png",
-                "answers": ["Standaard Boekhandel"]
-                },
-                
-                {
-                "question": "Welk logo zie je hier?",
-                "image": "https://cdn.discordapp.com/attachments/913500970464452699/916717186633060352/Opgave_55.png",
-                "answers": ["KBC"]
-                }       
+    },{
+    "question": "Welk logo zie je hier?",
+    "image": "https://cdn.discordapp.com/attachments/913500970464452699/916693755740946452/Opgave_34.png",
+    "answers": ["Disney"]
+    },
+
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916693987874729994/Opgave_35.png",
+        "answers": ["Netflix"]
+    },
+
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916696114059690004/Opgave_36.png",
+        "answers": ["Skype"]
+    },
+
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916696142543208488/Opgave_37.png",
+        "answers": ["Cars"]
+    },
+
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916696211258507274/Opgave_38.png",
+        "answers": ["Planner"]
+    },
+
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916696243722416128/Opgave_39.png",
+        "answers": ["SharePoint"]
+    },
+
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916696264702324806/Opgave_40.png",
+        "answers": ["Yammer"]
+    }, 
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916698584190185482/Opgave_41.png",
+        "answers": ["Blender"]
+    },
+
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916712589839462470/Opgave_44.png",
+        "answers": ["Carrefour"]
+    },
+
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916712601122144336/Opgave_43.png",
+        "answers": ["Aldi"]
+    },
+
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916712613214314526/Opgave_45.png",
+        "answers": ["Lidl"]
+    },
+
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916712642977099817/Opgave_46.png",
+        "answers": ["Delhaize"]
+    },
+
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916712676523130880/Opgave_47.png",
+        "answers": ["Albert Heijn"]
+    },
+
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916712706701160518/Opgave_48.png",
+        "answers": ["Deliveroo"]
+    },
+
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916712732189921330/Opgave_49.png",
+        "answers": ["Ikea"]
+    },
+
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916712754612690964/Opgave_50.png",
+        "answers": ["Makro"]
+    },
+
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916714179937828914/Opgave_51.png",
+        "answers": ["FFoT", "Fun Fact of Today"]
+    },
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916715175749492746/Opgave_52.png",
+        "answers": ["msi", "MSI"]
+    },
+
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916716386854780928/Opgave_54.png",
+        "answers": ["Studio 100", "Studio Honderd"]
+    },
+
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916716778149785660/Opgave_53.png",
+        "answers": ["Standaard Boekhandel"]
+    },
+
+    {
+        "question": "Welk logo zie je hier?",
+        "image": "https://cdn.discordapp.com/attachments/913500970464452699/916717186633060352/Opgave_55.png",
+        "answers": ["KBC"]
+    }       
 ]
