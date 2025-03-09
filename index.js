@@ -1,7 +1,8 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const { Client, Collection, Events, GatewayIntentBits, ActivityType} = require('discord.js');
-const { token } = require('./config.json');
+const { token, port } = require('./config.json');
+const express = require('express');
 
 const client = new Client({ intents: [
         GatewayIntentBits.Guilds,
@@ -9,6 +10,22 @@ const client = new Client({ intents: [
         GatewayIntentBits.MessageContent,
         GatewayIntentBits.GuildMembers
     ]});
+
+const app = express();
+
+/*
+const ALLOWED_ORIGIN = "https://de-molshoop.github.io/"
+
+app.use((req, res, next) => {
+    const origin = req.get('Origin');
+    if (origin !== ALLOWED_ORIGIN) {
+        return res.status(403).json({ success: false, error: 'Forbidden: Invalid origin' });
+    }
+    next();
+});
+*/
+
+app.use(express.json());
 
 client.commands = new Collection();
 
@@ -68,3 +85,23 @@ client.on(Events.MessageCreate, async interaction => {
 })
 
 client.login(token);
+
+app.post('/quiz', async (req, res) => {
+    const { message } = req.body;
+    const channelId = '724622094230487076';
+
+    try {
+        const channel = await client.channels.fetch(channelId);
+        if (channel.isTextBased()) {
+            await channel.send(message || 'No content');
+            return res.json({ success: true, message: 'Message sent!' });
+        } else {
+            return res.status(400).json({ success: false, error: 'Invalid channel' });
+        }
+    } catch (error) {
+        console.error(error);
+        return res.status(500).json({ success: false, error: 'Failed to send message' });
+    }
+});
+
+app.listen(port, () => console.log(`Server running on port ${port}`));
