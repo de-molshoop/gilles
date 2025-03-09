@@ -1,7 +1,8 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const { Client, Collection, Events, GatewayIntentBits, ActivityType} = require('discord.js');
-const { token, port } = require('./config.json');
+const { token, site, port, log_channel_quiz, CLIENT_ID_AUTH, CLIENT_SECRET_AUTH } = require('./config.json');
+const axios = require("axios");
 const express = require('express');
 
 const client = new Client({ intents: [
@@ -13,8 +14,9 @@ const client = new Client({ intents: [
 
 const app = express();
 
-/*
-const ALLOWED_ORIGIN = "https://de-molshoop.github.io/"
+
+const ALLOWED_ORIGIN = site;
+const REDIRECT_URI = `${site}auth/callback`;
 
 app.use((req, res, next) => {
     const origin = req.get('Origin');
@@ -23,7 +25,6 @@ app.use((req, res, next) => {
     }
     next();
 });
-*/
 
 app.use(express.json());
 
@@ -86,9 +87,11 @@ client.on(Events.MessageCreate, async interaction => {
 
 client.login(token);
 
+
+// EXPRESS
 app.post('/quiz', async (req, res) => {
     const { message } = req.body;
-    const channelId = '724622094230487076';
+    const channelId = log_channel_quiz;
 
     try {
         const channel = await client.channels.fetch(channelId);
@@ -101,6 +104,60 @@ app.post('/quiz', async (req, res) => {
     } catch (error) {
         console.error(error);
         return res.status(500).json({ success: false, error: 'Failed to send message' });
+    }
+});
+
+app.post("/api/auth/discord", async (req, res) => {
+    const { code } = req.body;
+
+    if (!code) {
+        return res.status(400).json({ error: "No code provided" });
+    }
+
+    try {
+        const params = new URLSearchParams({
+            client_id: CLIENT_ID_AUTH,
+            client_secret: CLIENT_SECRET_AUTH,
+            grant_type: "authorization_code",
+            code: code,
+            redirect_uri: REDIRECT_URI,
+            scope: "identify guilds",
+        });
+
+        const tokenResponse = await axios.post(
+            "https://discord.com/api/oauth2/token",
+            params,
+            { headers: { "Content-Type": "application/x-www-form-urlencoded" } }
+        );
+
+        const tokenData = tokenResponse.data;
+
+        if (!tokenData.access_token) {
+            return res.status(400).json({ error: "Invalid token response" });
+        }
+
+        const userResponse = await axios.get("https://discord.com/api/users/@me", {
+            headers: { Authorization: `Bearer ${tokenData.access_token}` },
+        });
+
+        const userData = userResponse.data;
+
+        const guildsResponse = await axios.get("https://discord.com/api/users/@me/guilds", {
+            headers: { Authorization: `Bearer ${tokenData.access_token}` },
+        });
+
+        const guildsData = guildsResponse.data;
+
+        // console.log(guildsData)
+
+        res.json({
+            access_token: tokenData.access_token,
+            user: userData,
+            guilds: guildsData,
+        });
+    } catch (error) {
+        // console.error("OAuth Error:", error.response?.data || error.message);
+        res.status(500).json({ error: "Internal server error" });
     }
 });
 
