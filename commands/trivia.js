@@ -13,7 +13,7 @@ const triviaEmote = require('../resources/quizvragen/quiz-emote.json');
 
 var vragenStorage = {
     triviaFilm: triviaFilm.concat(triviaDisney),
-    //triviaaa: triviaaa, 
+    triviaaa: triviaaa, 
     triviaMuziek: triviaMuziek,
     triviaSport: triviaSport,
 
@@ -34,7 +34,7 @@ module.exports = {
         .setDescription("De module waar je een vraag uit wil")
         .addChoices(
             { name: "Film", value: "triviaFilm" },
-            //{ name: "Aardrijkskunde", value: "triviaaa" },
+            { name: "Aardrijkskunde", value: "triviaaa" },
             { name: "Muziek", value: "triviaMuziek" },
             { name: "Sport", value: "triviaSport" },
             { name: "Geschiedenis", value: "triviaGesch" },
