@@ -22,7 +22,7 @@ var vragenStorage = {
     triviaLogo: triviaLogo,
     triviaEmote: triviaEmote,
 
-    trivia:  pretrivia.concat(triviaFilm, triviaMuziek, triviaSport, triviaGesch, triviaDisney, triviaLogo, triviaEmote)
+    trivia:  pretrivia.concat(triviaFilm, triviaMuziek, triviaSport, triviaGesch, triviaDisney, triviaLogo, triviaEmote, triviaaa)
 }
 
 module.exports = {
