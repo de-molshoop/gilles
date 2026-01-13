@@ -73,21 +73,9 @@
     },
     {
         "question": "Welke film is dit?",
-        "image": "https://cdn.discordapp.com/attachments/910601838129201152/916994154381328434/image-removebg-preview_21.png",
-        "answers": ["The Martian"]
-    },
-
-    {
-        "question": "Welke film is dit?",
         "image": "https://media.discordapp.net/attachments/760933771406606338/917009057129299988/Opgave_3.png''",
         "answers": ["Kung Fu Panda"]
     },
-    {
-        "question": "Welke serie is dit?",
-        "image": "https://cdn.discordapp.com/attachments/910601838129201152/916435992599203940/image-removebg-preview_2.png",
-        "answers": ["Sex education"]
-    },
-
     {
         "question": "Welke film is dit?",
         "image": "https://cdn.discordapp.com/attachments/910601838129201152/922566115748610078/image-removebg-preview_25.png",

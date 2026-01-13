@@ -101,7 +101,7 @@
     {
         "question": "Hoe heet de vader van Will Turner?",
         "image": "https://i.stack.imgur.com/dE1F2.jpg",
-        "answers": ["Bill Turner"]
+        "answers": ["Bill Turner", "Bill"]
     },
     {
         "question": "Hoe heer deze protocol droid uit Star Wars",

@@ -57,7 +57,7 @@
     {
         "question": "Van welk land zie je hier de vlag?",
         "image": "https://www.worldometers.info/img/flags/au-flag.gif",
-        "answers": ["Australië", "Australie"]
+        "answers": ["Oostenrijk"]
     },
     {
         "question": "Van welk land zie je hier de vlag?",
@@ -116,7 +116,7 @@
     },
     {
         "question": "Van welk land zie je hier de vlag?",
-        "image": "https://www.worldometers.info/img/flags/jp-flag.gif",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/2560px-Flag_of_Japan.svg.png",
         "answers": ["Japan"]
     },
     {
@@ -158,11 +158,6 @@
         "question": "Van welk land zie je hier de vlag?",
         "image": "https://www.worldometers.info/img/flags/ar-flag.gif",
         "answers": ["Argentinië", "Argentinie"]
-    },
-    {
-        "question": "Van welk land zie je hier de vlag?",
-        "image": "https://www.worldometers.info/img/flags/au-flag.gif",
-        "answers": ["Oostenrijk"]
     },
     {
         "question": "Van welk land zie je hier de vlag?",
@@ -226,7 +221,7 @@
     },
     {
         "question": "Van welk land zie je hier de vlag?",
-        "image": "https://www.worldometers.info/img/flags/ur-flag.gif",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/2560px-Flag_of_Uruguay.svg.png",
         "answers": ["Uruguay"]
     },
     {
@@ -326,7 +321,7 @@
     },
     {
         "question": "Van welk land zie je hier de vlag?",
-        "image": "https://www.worldometers.info/img/flags/ve-flag.gif",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Venezuela_%28state%29.svg/2560px-Flag_of_Venezuela_%28state%29.svg.png",
         "answers": ["Venezuela"]
     },
     {
@@ -337,7 +332,7 @@
     {
         "question": "Van welk land zie je hier de vlag?",
         "image": "https://www.worldometers.info/img/flags/tt-flag.gif",
-        "answers": ["Trinidad & Tobago", "Trinidad en Tobago", "Trinidad"]
+        "answers": ["Oost-Timor", "Oost Timor", "Timor Leste"]
     },
     {
         "question": "Van welk land zie je hier de vlag?",
